@@ -42,5 +42,27 @@ a:active{
 .escola-imagem{
    width: 25%;
    height: 300px;
+   border-radius: 82px;
+}
 
+.escola{
+    background-image: linear-gradient(#424e61,#16cff8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 45%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+p{
+    padding: 0 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
